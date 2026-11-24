@@ -1,0 +1,7 @@
+project/web/lib/
+project/work/
+project/stills/
+project/out/
+project/frames/
+*.mp3
+*.wav
